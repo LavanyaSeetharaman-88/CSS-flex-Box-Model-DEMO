@@ -1,0 +1,44 @@
+h1 {
+    color: white;
+    text-align: center;
+  }
+  
+  .redDiv {
+    border: 4px ridge red;
+    width: 50px;
+    height: 50px;
+    float: left;
+    margin: 10px;
+    background-color: lightsalmon;
+  }
+  .YellowDiv {
+    border: 4px ridge yellow;
+    width: 50px;
+    height: 50px;
+    float: left;
+    margin: 10px;
+    /*position: -webkit-sticky;
+    position: sticky;
+    top: 20px;*/
+    /*position: relative;
+    top: 40px; left: 40px;*/
+    background-color: lightgoldenrodyellow;
+  }
+  .blueDiv {
+    border: 4px ridge blue;
+    width: 50px;
+    height: 50px;
+    float: left;
+    margin: 10px;
+    background-color: lightblue;
+  }
+  .noDiv {
+    width: 500px;
+    height: 300px;
+    overflow: auto;
+    clear: both;
+    color: aqua;
+    font-size: x-large;
+    text-align: justify;
+  }
+  
